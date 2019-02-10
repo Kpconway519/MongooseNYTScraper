@@ -1,0 +1,30 @@
+{
+  "name": "mongoosenytscraper",
+  "version": "1.0.0",
+  "description": "scrapes nyt for content",
+  "main": "server.js",
+  "scripts": {
+    "test": "test123",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kpconway519/MongooseNYTScraper.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "kevin p conway",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "*",
+    "cheerio": "*",
+    "express": "*",
+    "mongoose": "*",
+    "morgan": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/Kpconway519/MongooseNYTScraper/issues"
+  },
+  "homepage": "https://github.com/Kpconway519/MongooseNYTScraper#readme"
+}
